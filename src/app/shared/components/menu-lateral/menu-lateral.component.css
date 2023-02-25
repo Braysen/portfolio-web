@@ -1,0 +1,28 @@
+.container-menu-lateral{
+    background-color: var(--col-blue);
+}
+.container-logo{
+    width: 40px;
+    height: 40px;
+    background-color: var(--col-dark-black);
+}
+ul{
+    transform: rotate(-90deg);
+}
+.container-mode{
+    height: 70px;
+    width: 70px;
+}
+.container-mode img{
+    width: 70px;
+    height: 70px;
+}
+.container-logo .logo{
+    line-height: 40px;
+    font-size: var(--font-lg-size);
+    color: var(--col-gray);
+}
+.option-menu-lateral a{
+    color: var(--col-gray);
+    font-weight: 500;
+}
