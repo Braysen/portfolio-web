@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+:root{
+    --col-blue: #5260FF;
+    --col-gray: #D6DCD9;
+    --col-dark-black: #1D2521;
+
+    --font-biggest-size: 3rem;
+    --font-lg-size: 1.125rem;
+}
+
+.place-items-center{
+    place-items: center;
+}
