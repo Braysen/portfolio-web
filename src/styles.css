@@ -13,6 +13,10 @@
     --font-sm-size: .875rem;
 }
 
+body{
+    background-color: #1D2521;
+}
+
 .place-items-center{
     place-items: center;
 }
