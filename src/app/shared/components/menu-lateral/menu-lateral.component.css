@@ -19,7 +19,7 @@ ul{
 }
 .container-logo .logo{
     line-height: 40px;
-    font-size: var(--font-lg-size);
+    font-size: var(--font-md-size);
     color: var(--col-gray);
 }
 .option-menu-lateral a{

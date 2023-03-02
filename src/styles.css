@@ -5,11 +5,18 @@
     --col-blue: #5260FF;
     --col-gray: #D6DCD9;
     --col-dark-black: #1D2521;
+    --col-dark-gray: #343A40;
 
     --font-biggest-size: 3rem;
-    --font-lg-size: 1.125rem;
+    --font-lg-size: 1.25rem;
+    --font-md-size: 1.125rem;
+    --font-sm-size: .875rem;
 }
 
 .place-items-center{
     place-items: center;
+}
+
+.container-info{
+    background-color: var(--col-dark-black);
 }
